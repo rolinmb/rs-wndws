@@ -2,5 +2,6 @@
 native/main
 native/main.o
 native/main.so
+native/main.dll
+native/main.exe
 native/main.dylib
-nbative/main.exe
