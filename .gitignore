@@ -1,0 +1,6 @@
+/target
+native/main
+native/main.o
+native/main.so
+native/main.dylib
+nbative/main.exe
