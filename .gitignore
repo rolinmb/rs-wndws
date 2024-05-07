@@ -5,3 +5,9 @@ native/main.so
 native/main.dll
 native/main.exe
 native/main.dylib
+native/libmain
+native/libmain.o
+native/libmain.so
+native/libmain.dll
+native/libmain.exe
+native/libmain.dylib
