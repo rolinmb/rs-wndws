@@ -3,11 +3,13 @@ native/add
 native/add.o
 native/add.so
 native/add.dll
+native/add.dll.lib
 native/add.exe
 native/add.dylib
 native/libadd
 native/libadd.o
 native/libadd.so
 native/libadd.dll
+native/libadd.dll.lib
 native/libadd.exe
 native/libadd.dylib

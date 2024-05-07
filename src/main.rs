@@ -1,3 +1,5 @@
+#[cfg(windows)]
+#[link(name = "libadd.dll", kind = "dylib")]
 extern {
   fn add(a: i32, b: i32) -> i32;
 }
